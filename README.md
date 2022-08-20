@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Li3406
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Bachelor of Computer Science (Advanced)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, I’m Li Ching
+-🌱 I'm a computer science student currently studying in Monash University Malaysia. 
+-💞️ I'm passionate about creating technology that help people. I enjoy solving challenging problems.
 
 <!---
 Li3406/Li3406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
